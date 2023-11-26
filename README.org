@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/mnasoft/mnas-package.git   |
-| commit  | 8ceeefb  |
-| systems | mnas-package |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/mnasoft/mnas-package.git |
+| commit  | 585188d                                         |
+| systems | mnas-package                                    |
+|---------+-------------------------------------------------|
