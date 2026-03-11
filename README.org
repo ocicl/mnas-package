@@ -4,6 +4,6 @@
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/mnasoft/mnas-package.git |
-| commit  | 469d1f0                                         |
+| commit  | 2da2fd7                                         |
 | systems | mnas-package                                    |
 |---------+-------------------------------------------------|
